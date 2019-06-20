@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="5e76dbfedbc67300a69564d7489619b0" sys_domain="global" table="x_360733_blood_in_pplication_for_donors" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 05:33:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1276dbfedbc67300a69564d7489619b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_360733_blood_in_pplication_for_donors" name="x_360733_blood_in_pplication_for_donors" sys_domain="global" view="8a76dbfedbc67300a69564d7489619ac">5e76dbfedbc67300a69564d7489619b0</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_360733_blood_in_pplication_for_donors" sys_domain="global" view="8a76dbfedbc67300a69564d7489619ac">5a76dbfedbc67300a69564d7489619af</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 05:33:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_360733_blood_in_pplication_for_donors</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 05:33:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e76dbfedbc67300a69564d7489619b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_360733_blood_in_pplication_for_donors</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BloodInMinute" source="x_360733_blood_in">4be0da76db467300a69564d74896193e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BloodInMinute">4be0da76db467300a69564d74896193e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_5e76dbfedbc67300a69564d7489619b0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 05:33:12</sys_updated_on>
+            <sys_user/>
+            <view display_value="donortesting" name="donortesting">8a76dbfedbc67300a69564d7489619ac</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

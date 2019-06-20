@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="blood_group" table="x_360733_blood_in_application_for_the_patients" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>blood_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AB ve</label>
+            <language>en</language>
+            <name>x_360733_blood_in_application_for_the_patients</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 00:58:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c09796fadb467300a69564d7489619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 00:58:21</sys_updated_on>
+            <value>ab ve</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>blood_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AB-ve</label>
+            <language>en</language>
+            <name>x_360733_blood_in_application_for_the_patients</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 00:58:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>049796fadb467300a69564d7489619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 00:58:21</sys_updated_on>
+            <value>ab-ve</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>blood_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>O ve</label>
+            <language>en</language>
+            <name>x_360733_blood_in_application_for_the_patients</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 00:58:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>809796fadb467300a69564d7489619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 00:58:21</sys_updated_on>
+            <value>o ve</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>blood_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>O-ve</label>
+            <language>en</language>
+            <name>x_360733_blood_in_application_for_the_patients</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 00:58:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>009796fadb467300a69564d7489619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 00:58:21</sys_updated_on>
+            <value>o-ve</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>blood_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A ve</label>
+            <language>en</language>
+            <name>x_360733_blood_in_application_for_the_patients</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 00:58:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c9796fadb467300a69564d7489619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 00:58:21</sys_updated_on>
+            <value>a ve</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>blood_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A-ve</label>
+            <language>en</language>
+            <name>x_360733_blood_in_application_for_the_patients</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 00:58:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c9796fadb467300a69564d7489619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 00:58:21</sys_updated_on>
+            <value>a-ve</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>blood_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>B ve</label>
+            <language>en</language>
+            <name>x_360733_blood_in_application_for_the_patients</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 00:58:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>889796fadb467300a69564d7489619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 00:58:21</sys_updated_on>
+            <value>b ve</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>blood_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>B-ve</label>
+            <language>en</language>
+            <name>x_360733_blood_in_application_for_the_patients</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 00:58:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>089796fadb467300a69564d7489619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 00:58:21</sys_updated_on>
+            <value>b-ve</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>blood_group</element>
+            <name>x_360733_blood_in_application_for_the_patients</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 00:58:21</sys_created_on>
+            <sys_id>0c9796fadb467300a69564d7489619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>blood_group</sys_name>
+            <sys_package display_value="BloodInMinute" source="x_360733_blood_in">4be0da76db467300a69564d74896193e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BloodInMinute">4be0da76db467300a69564d74896193e</sys_scope>
+            <sys_update_name>sys_choice_x_360733_blood_in_application_for_the_patients_blood_group</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 00:58:21</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

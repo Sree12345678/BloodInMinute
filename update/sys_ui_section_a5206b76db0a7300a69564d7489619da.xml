@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="a5206b76db0a7300a69564d7489619da" sys_domain="global" table="x_360733_blood_in_application_for_the_patients" version="3" view="bloodrequest">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:47:58</sys_created_on>
+            <sys_id>c58ed80fdb8a7300a69564d74896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_360733_blood_in_application_for_the_patients" sys_domain="global" view="25206b76db0a7300a69564d7489619d7">a5206b76db0a7300a69564d7489619da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:47:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>blood_group</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:47:58</sys_created_on>
+            <sys_id>498ed80fdb8a7300a69564d74896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_360733_blood_in_application_for_the_patients" sys_domain="global" view="25206b76db0a7300a69564d7489619d7">a5206b76db0a7300a69564d7489619da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:47:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:47:58</sys_created_on>
+            <sys_id>c98ed80fdb8a7300a69564d74896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_360733_blood_in_application_for_the_patients" sys_domain="global" view="25206b76db0a7300a69564d7489619d7">a5206b76db0a7300a69564d7489619da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:47:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_3</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:47:58</sys_created_on>
+            <sys_id>4d8ed80fdb8a7300a69564d74896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_360733_blood_in_application_for_the_patients" sys_domain="global" view="25206b76db0a7300a69564d7489619d7">a5206b76db0a7300a69564d7489619da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:47:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reason</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:47:58</sys_created_on>
+            <sys_id>cd8ed80fdb8a7300a69564d74896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_360733_blood_in_application_for_the_patients" sys_domain="global" view="25206b76db0a7300a69564d7489619d7">a5206b76db0a7300a69564d7489619da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:47:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_other</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:47:58</sys_created_on>
+            <sys_id>418ed80fdb8a7300a69564d74896192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_360733_blood_in_application_for_the_patients" sys_domain="global" view="25206b76db0a7300a69564d7489619d7">a5206b76db0a7300a69564d7489619da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:47:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:47:58</sys_created_on>
+            <sys_id>c18ed80fdb8a7300a69564d74896192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_360733_blood_in_application_for_the_patients" sys_domain="global" view="25206b76db0a7300a69564d7489619d7">a5206b76db0a7300a69564d7489619da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:47:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mobile_no</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:47:58</sys_created_on>
+            <sys_id>458ed80fdb8a7300a69564d74896192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_360733_blood_in_application_for_the_patients" sys_domain="global" view="25206b76db0a7300a69564d7489619d7">a5206b76db0a7300a69564d7489619da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:47:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_2</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:47:58</sys_created_on>
+            <sys_id>c58ed80fdb8a7300a69564d74896192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_360733_blood_in_application_for_the_patients" sys_domain="global" view="25206b76db0a7300a69564d7489619d7">a5206b76db0a7300a69564d7489619da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:47:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_360733_blood_in_application_for_the_patients</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:15:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5206b76db0a7300a69564d7489619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_360733_blood_in_application_for_the_patients</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BloodInMinute" source="x_360733_blood_in">4be0da76db467300a69564d74896193e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BloodInMinute">4be0da76db467300a69564d74896193e</sys_scope>
+            <sys_update_name>sys_ui_section_a5206b76db0a7300a69564d7489619da</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:15:29</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="bloodrequest" name="bloodrequest">25206b76db0a7300a69564d7489619d7</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

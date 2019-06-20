@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_360733_blood_in.admin" name="x_360733_blood_in.admin">7546aff6db0a7300a69564d7489619d9</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-19 06:42:48</sys_created_on>
+        <sys_id>a966233adb0a7300a69564d7489619d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7546aff6db0a7300a69564d7489619d9</sys_name>
+        <sys_package display_value="BloodInMinute" source="x_360733_blood_in">4be0da76db467300a69564d74896193e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BloodInMinute">4be0da76db467300a69564d74896193e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a966233adb0a7300a69564d7489619d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-19 06:42:48</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

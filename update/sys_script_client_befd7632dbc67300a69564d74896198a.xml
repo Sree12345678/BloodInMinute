@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>This Message will be generated when the pateint form is submitted</description>
+        <field>address</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>pateint</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+   //Type appropriate comment here, and begin script below
+   alert("Thank you for submitting the Pateint Form");
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-19 03:47:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>befd7632dbc67300a69564d74896198a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>pateint</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BloodInMinute" source="x_360733_blood_in">4be0da76db467300a69564d74896193e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BloodInMinute">4be0da76db467300a69564d74896193e</sys_scope>
+        <sys_update_name>sys_script_client_befd7632dbc67300a69564d74896198a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-19 03:49:59</sys_updated_on>
+        <table>x_360733_blood_in_application_for_the_patients</table>
+        <type>onSubmit</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Area" max_length="40" name="x_360733_blood_in_area" type="collection">
+        <element label="district" mandatory="true" max_length="50" name="district" type="string"/>
+        <element choice="3" label="mandal" mandatory="true" max_length="50" name="mandal" type="string">
+            <choice/>
+        </element>
+        <element choice="3" label="State" mandatory="true" max_length="40" name="state" read_only="true" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Address found" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="no" sequence="1" value="no"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+    </element>
+</database>
